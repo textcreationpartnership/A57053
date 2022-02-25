@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Request to Protestants to produce plain scriptures directly authorizing these their tenets.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57053</idno>
+            <idno type="STC">Wing R1119</idno>
+            <idno type="STC">ESTC R26987</idno>
+            <idno type="EEBO-CITATION">09602262</idno>
+            <idno type="OCLC">ocm 09602262</idno>
+            <idno type="VID">43782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Request to Protestants to produce plain scriptures directly authorizing these their tenets.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  Controversial literature --  Catholic authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43782:1"/>
+            <pb n="1" facs="tcp:43782:1" rendition="simple:additions"/>
+            <head>A REQUEST TO Proteſtants, To produce Plain Scriptures directly authorizing theſe their Tenets.</head>
+            <list>
+               <item>I. <hi>Scripture is clear, in all Neceſſaries, to every Sober Enquirer.</hi>
+               </item>
+               <item>II. <hi>The Secular Prince hath all Spiritual Juriſdiction and Au<g ref="char:EOLhyphen"/>thority, immediately, from and under God.</hi>
+               </item>
+               <item>III. <hi>Juſtification by Faith alone</hi> (viz. <hi>a Perſuaſion that we are juſtified</hi>) <hi>is a wholeſom Doctrin.</hi>
+               </item>
+               <item>IV. <hi>The Subſtance of Bread and Wine remains after, what it was before, Sacerdotal Conſecration.</hi>
+               </item>
+               <item>V. <hi>Our Lord's Preſence in or with the Euchariſt is meerly gra<g ref="char:EOLhyphen"/>cious and influential; and, if more, only to the Faithful.</hi>
+               </item>
+               <item>VI. <hi>Adoration of the Euchariſt</hi> (i. e. <hi>of our Saviour under the Species of Bread and Wine</hi>) <hi>is Idolatry.</hi>
+               </item>
+               <item>VII. <hi>All Chriſtians, whenever they communicate, are oblig'd to receive in both Kinds.</hi>
+               </item>
+               <item>VIII. <hi>Chaſtity, deliberately vow'd, may be, inoffenſively, violated.</hi>
+               </item>
+               <item>IX. <hi>All Chriſtian Excellencies are commanded.</hi>
+               </item>
+               <item>X. <hi>Every Soul, as ſoon as expired, is convey'd to Heaven or Hell.</hi>
+               </item>
+               <item>XI. <hi>Deſiring the Interceſſions of the Bleſſed, is more Superſtiti<g ref="char:EOLhyphen"/>ous, and derogatory to our Lord's Mediatorſhip, than entreat<g ref="char:EOLhyphen"/>ing the Prayers of Holy Men Militant.</hi>
+               </item>
+               <item>XII. <hi>Honouring the Croſs, the Reliques and Repreſentations of our Lord and his Saints, with that degree of Reverence as we do the Goſpels, (commonly kiſs'd and ſworn by) Altar, and other Sacred <g ref="char:V">Ʋ</g>tenſils, is Idolatry.</hi>
+               </item>
+               <pb n="2" facs="tcp:43782:2"/>
+               <item> XIII. <hi>The Pope is Antichriſt.</hi>
+               </item>
+               <item>XIV. <hi>Every Prayer, us'd in Divine Offices, muſt be in a Language vulgar, and intelligible to every Auditor.</hi>
+               </item>
+               <item>XV. <hi>A Company of Chriſtians, voluntarily ſeparating from all other Chriſtian Societies, condemning their Doctrins and Rites, deſtitute alſo of any viſible Correſpondence with them in the Euchariſt, in any Religious Aſſemblies or Solemn Devotions, can, notwithſtanding this perverſe, entire, and manifeſt Sepa<g ref="char:EOLhyphen"/>ration, be a myſtical Member of Chriſt, in Catholic <g ref="char:V">Ʋ</g>nity, and a Charitable Part of the Catholic Church.</hi>
+               </item>
+               <item>XVI. <hi>The whole Clergy of the Catholic Church may apoſtatize from Fundamental Truth and Holineſs; whilſt part of a National Laity may preſerve both, diſcover the Clergies Defection, and, depriving them, heap to Themſelves Teachers of their own ſending and inſtruction.</hi>
+               </item>
+            </list>
+            <p>IN theſe poſitive Propoſitions (if Proteſtants have any affirmative Be<g ref="char:EOLhyphen"/>lief) do's their Religion chiefly conſiſt: becauſe, Baptiſm, and ſuch Articles of the Creed, as are ſtill uncorrupted by them, are no more theirs, than <note n="*" place="margin">
+                  <hi>Tertul. de Praeſcript. c. 36.</hi> Conſtat ratio Propoſiti no<g ref="char:EOLhyphen"/>ſtri, definientis non eſſe ad<g ref="char:EOLhyphen"/>mittendos Haereticos ad in<g ref="char:EOLhyphen"/>eundam de Scripturis provo<g ref="char:EOLhyphen"/>cationem, quos ſine Scripturis probamus ad Scripturas non pertinere.—Nullum jus capiant Chriſtianarum Lite<g ref="char:EOLhyphen"/>rarum.</note> the Scriptures were the <hi>Valentinians:</hi> they are the Churches Pecu<g ref="char:EOLhyphen"/>liar, and claim'd by Her againſt all novel and unjuſt, both Forreiners and Out-laws: but what-ever they have invented or choſen, that belongs (as Sin to a deprav'd Will) pro<g ref="char:EOLhyphen"/>perly to them; thence they derive their Title, and thereto muſt we preciſely confine their Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Now Proteſtants (as all other Deſerters of Truth and Unity) con<g ref="char:EOLhyphen"/>ſcious of their own Deficiencies as to Defenſive Weapons, are more earneſt and ſollicitous to invade <note n="†" place="margin">
+                  <hi>Tertul. de Praeſcript. c. 42.</hi> Negotium illis, non Ethnicos convertendi, ſed noſtros ever<g ref="char:EOLhyphen"/>tendi.—Ipſum opus eorum non de ſuo proprio aedificio venit, ſed de veritatis de<g ref="char:EOLhyphen"/>ſtructione noſtra ſuffodiunt, ut ſua <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edificent.</note> Catholic Do<g ref="char:EOLhyphen"/>ctrins, than to juſtifie their own Inventions; more ready alſo to aſſault particular Doctrins, than that deciſive and moſt conſpicuous Truth, <hi>Church-Authority,</hi> obliging all Chriſtians to re<g ref="char:EOLhyphen"/>poſe in and aſſent to her Deciſions in all Points of neceſſary Faith.</p>
+            <p>In Diſputes, their uſual Clamor is, Alledge Scripture; Produce Reaſon. Intimating the Catholic Church muſt, to convince them, offer Scriptures and Reaſons demonſtrating what they contradict (not with the Auxiliary of her
+<pb n="3" facs="tcp:43782:2"/>Authority, but againſt the moſt impudent prejudice of), themſelves being Judges. Yet, could this be perform'd, <hi>ſolent oculis clau<g ref="char:EOLhyphen"/>ſis denegare, qui non credunt factum eſſe, quod nolunt:</hi>
+               <note place="margin">Hieron. adv. Lucif.</note> Like to thoſe who will not believe that to be, which they have no mind ſhould be, it is not unuſual with them to ſhut their Eyes and deny it.</p>
+            <p>She, however, gentle, patient, and apter to teach her own, than to pry into, and other ways perillouſly confute contagious Doctrins, to recover ſuch Strays out of the Snare of the Devil, inſtructs them by rightly dividing the Word of Truth, and by yielding thoſe Reaſons of the Faith that is in her, as It (a Revelation and Myſterious) can condeſcend unto.</p>
+            <p>What Proteſtants ſo inſultingly demand, we then retort; and what the Catholic Church returns, we expect: Nor can they here take Sanctuary under Negatives; for the above-recounted Points are Poſitive, and Affirm<g ref="char:EOLhyphen"/>ers muſt prove. We then require expreſs Scriptures and ſolid Reaſons for theſe Novelties, or a diſavowing and <hi>Anathema</hi> of what they cannot thus defend. Neither ſhall Perverſions of the One, Calumnies and Falacies in lieu of the Other, ſatisfie us. Their Private Spirit adulterating Scripture by corrupt Tranſlations, ſacrilegious Mutilations, blaſphemous Miſapplications, groſs Wreſtings, and falſe Interpretations; Their Wit impoſing on the cre<g ref="char:EOLhyphen"/>dulous Multitude, Indefinits, Non-conſequences, Ambiguities, Drollery, Di<g ref="char:EOLhyphen"/>greſſions evading the Cauſe, and, if any Truth, utterly impertinent to the Controverſie. I ſay, theſe Phantomes and Abuſes of Scripture and Reaſon will not content us; tho' thereby the Deluſion, Proteſtancy, be ſtrenghthned as 'twas begotten (for can a Falſhood be ſupported without lying?) and wretched Souls ſeduc'd to confide in damnable Fables.</p>
+            <p>Their Brethren <note n="*" place="margin">
+                  <hi>Tertul. ibid.</hi> Agnoſcit na<g ref="char:EOLhyphen"/>turam ſuam, &amp; originis ſuae morem, profectus rei.—Id<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m licuit.—Marcionitis quod Marcioni, de ſuo arbitrio fi<g ref="char:EOLhyphen"/>dem innovare.</note>, by Deſcent and Iniquity, the <hi>Socinians,</hi> ſteering by the Blaſt of a Private Spirit, the Chart o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lear Scripture, and Compaſs of Human Reaſon, have made ſhipwrack of Faith; and their other Relations, the <hi>Antinomi<g ref="char:EOLhyphen"/>ans,</hi> adding another Proteſtant Implement (Faith alone is a wholeſom Doctrin), have made ſhipwrack of a good Conſcience; and no other Proteſtant either does, or can, without confuſion to his own Principles, hinder their being caſt away.</p>
+            <p>When Prelatical Proteſtants are preſt with Church Authority, and ſub<g ref="char:EOLhyphen"/>miſſion of Judgment, they ſtrait retire to <hi>Hobbiſm,</hi> their Lay-Supremacy, declaring their Prince, the Sole and Sovereign Judge in all Cauſes Spiritual; and that a Chriſtian, certain of the Truth of his own Profeſſion, and of the Falſhood of the Eſtabliſh'd Religion, may not, unleſs permitted by the Prince, or enabled by God to work Miracles, preach his own, and decry the other. And will not ſuch abſolute Lay-Authority (indeed unknown to St. <hi>Auſtin</hi> when he wrote <hi>de Unit. Eccleſ. c.</hi> 13. <hi>Neque enim quia &amp; orbe
+<pb n="4" facs="tcp:43782:3"/>terrarum plerumque regna dividuntur, ideo &amp; Chriſtiana Unitas dividitur, cum in utraque parte (ſc. multis regnis) Catholica inveniatur Eccleſia [indi<g ref="char:EOLhyphen"/>viſa];</hi> Will not, I ſay, ſuch abſolute Lay-Authority (tho pernicious to Ca<g ref="char:EOLhyphen"/>tholic) procure a National Unity? We ſee nothing like it; becauſe, when the Supremacy grows ſuſpicious or heavy on their Private Spirits, and diſ<g ref="char:EOLhyphen"/>favours Proteſtant Libertiniſm in Opinion and Life, then Supremacy was devis'd againſt a Foreign not Domeſtic Eccleſiaſtical Authority, and the King was only the Church of <hi>England</hi>'s Father-in-Law, or Guardian in her Minority, choſen who<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhe broke looſe from the Pope and General Councils; but now ſhe is at diſcretion, and means to challenge and exerciſe her eſſential Rights: Rights inalienable, notwithſtanding the Encroach<g ref="char:EOLhyphen"/>ments of ſome, and Uſurpations of others. Having thus diſclaim'd all Cle<g ref="char:EOLhyphen"/>rical Authority, whether Conciliary or Papal, Primatical or Dioceſan, and attributed it to the Sovereign; and now depoſing Him alſo from his Spiri<g ref="char:EOLhyphen"/>tual Supremacy and Abſoluteneſs, with a <hi>The Church hath her Rights, &amp;c.</hi> what can be intended, by theſe new Church-Rights, conſiſtent with Supre<g ref="char:EOLhyphen"/>macy? What can theſe perplex'd People (perplex'd moſt juſtly by their own Servileneſs to ſome, and Diſobedience to others) what can they erect, in ſtead of their Head's now-rejected Prerogative, but an Equality of all the Headleſs Members? I ſay, a Parity or an individual Supremacy muſt be re<g ref="char:EOLhyphen"/>treated to, as leaſt unjuſt, and more free than preferring one or more Ty<g ref="char:EOLhyphen"/>rants. For thus the King ſhall have no Superior, as no Subject, Spiritual; all will ſhare alike (as they ought to do) in the Spoil; and, according to Cu<g ref="char:EOLhyphen"/>ſtom, a Republic ſucceeds a Monarchy. The Royal caſhier'd the Synodical Authority, and the Popular (<hi>i. e.</hi> every Man's) the Royal Authority. Thus <hi>Cranmer</hi>'s and <hi>Tillotſon</hi>'s Court-Doctrin is relinquiſh'd, and <hi>Stillingfleet</hi>'s Maxim entertain'd; That none be conſtrain'd to Submiſſion of Judgment to any Authority, but <hi>All be left to judge according <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Pandects of the Divine Law. Ipſi ſibi &amp; Laici ſunt &amp; Epi<g ref="char:EOLhyphen"/>ſcopi</hi>
+               <note n="*" place="margin">St. <hi>Jerom</hi> of <hi>Hilarius</hi> the <hi>Roman</hi> Deacon, ſeparating from all the World.</note>. Nor are theſe individual Catholic Churches without their Schiſms.—<hi>Cum ſint, non modo non parent [praeſidibus], ſibi ipſis autem non conſtantibus, quotidianam fidem cudunt;</hi> but refuſing to obey their Rulers, and contradicting themſelves, every day invent a new Faith.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publiſhed with Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty for His Houſhold and Chappel. 1686.</p>
+            <pb facs="tcp:43782:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
